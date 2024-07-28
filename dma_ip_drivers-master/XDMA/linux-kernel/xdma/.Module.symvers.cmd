@@ -1,0 +1,1 @@
+cmd_/home/fangyuhong/dma/dma_ip_drivers-master/XDMA/linux-kernel/xdma/Module.symvers := sed 's/\.ko$$/\.o/' /home/fangyuhong/dma/dma_ip_drivers-master/XDMA/linux-kernel/xdma/modules.order | scripts/mod/modpost -m -a  -o /home/fangyuhong/dma/dma_ip_drivers-master/XDMA/linux-kernel/xdma/Module.symvers -e -i Module.symvers   -T -
