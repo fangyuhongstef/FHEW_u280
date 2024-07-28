@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/fangyuhong/dma/alveo_u280/alveo_u280.hw/hw_1/wave/hw_ila_data_3/hw_ila_data_3.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="505"></ZoomStartTime>
+      <ZoomEndTime time="525"></ZoomEndTime>
+      <Cursor1Time time="514"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="448"></NameColumnWidth>
+      <ValueColumnWidth column_width="143"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject type="array" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/axi_awaddr">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/axi_awaddr[63:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_awaddr[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/axi_awvalid">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/axi_awvalid</obj_property>
+      <obj_property name="ObjectShortName">axi_awvalid</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/axi_wdata">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/axi_wdata[31:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_wdata[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/M_AXI_AWREADY">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/M_AXI_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">M_AXI_AWREADY</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/&lt;const0&gt;">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/&lt;const0&gt;</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/TXN_DONE">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/TXN_DONE</obj_property>
+      <obj_property name="ObjectShortName">TXN_DONE</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/axi_awaddr">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/axi_awaddr[63:0]</obj_property>
+      <obj_property name="ObjectShortName">axi_awaddr[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/burst_size_bytes">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/burst_size_bytes[10:0]</obj_property>
+      <obj_property name="ObjectShortName">burst_size_bytes[10:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/init_txn_pulse">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/init_txn_pulse</obj_property>
+      <obj_property name="ObjectShortName">init_txn_pulse</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/mst_exec_state">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/mst_exec_state[1:0]</obj_property>
+      <obj_property name="ObjectShortName">mst_exec_state[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/start_single_burst_write">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/start_single_burst_write</obj_property>
+      <obj_property name="ObjectShortName">start_single_burst_write</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/write_resp_error">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_ddr_ctrl_v1_0/ddr_ctrl_v1_0_M00_AXI_inst/write_resp_error</obj_property>
+      <obj_property name="ObjectShortName">write_resp_error</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

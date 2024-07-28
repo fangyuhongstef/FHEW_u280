@@ -1,0 +1,2 @@
+int_ila_0.v,verilog,xil_defaultlib,../../../../alveo_u280.gen/sources_1/ip/int_ila_0/sim/int_ila_0.v,incdir="../../../../alveo_u280.gen/sources_1/ip/int_ila_0/hdl/verilog"
+glbl.v,Verilog,xil_defaultlib,glbl.v

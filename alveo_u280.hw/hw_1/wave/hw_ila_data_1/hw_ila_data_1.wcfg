@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/fangyuhong/dma/alveo_u280/alveo_u280.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0"></ZoomStartTime>
+      <ZoomEndTime time="9"></ZoomEndTime>
+      <Cursor1Time time="0"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="284"></NameColumnWidth>
+      <ValueColumnWidth column_width="66"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="56" />
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_WREADY">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_WREADY</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_WREADY</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWADDR">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWADDR[63:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_AWADDR[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_BRESP">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_BRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_BRESP[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_BVALID">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_BVALID</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_BVALID</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_BREADY">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_BREADY</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_BREADY</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARADDR">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARADDR[63:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_ARADDR[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RREADY">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RREADY</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_RREADY</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_WVALID">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_WVALID</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_WVALID</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARVALID">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARVALID</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_ARVALID</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARREADY">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARREADY</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_ARREADY</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RDATA">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RDATA[511:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_RDATA[511:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWVALID">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWVALID</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_AWVALID</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWREADY">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWREADY</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_AWREADY</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RRESP">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RRESP[1:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_RRESP[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_WDATA">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_WDATA[511:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_WDATA[511:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_WSTRB">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_WSTRB[63:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_WSTRB[63:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RVALID">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RVALID</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_RVALID</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARPROT">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARPROT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_ARPROT[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWPROT">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWPROT[2:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_AWPROT[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWID">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWID[3:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_AWID[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_BID">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_BID[3:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_BID[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWLEN">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWLEN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_AWLEN[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_1">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_1</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_1</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWSIZE">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWSIZE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_AWSIZE[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWBURST">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWBURST[1:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_AWBURST[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARID">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARID[3:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_ARID[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWLOCK">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWLOCK</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_AWLOCK</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARLEN">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARLEN[7:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_ARLEN[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARSIZE">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARSIZE[2:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_ARSIZE[2:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARBURST">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARBURST[1:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_ARBURST[1:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARLOCK">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARLOCK</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_ARLOCK</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARCACHE">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_ARCACHE[3:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_ARCACHE[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWCACHE">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_AWCACHE[3:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_AWCACHE[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_2">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_2</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_2</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_3">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_3</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_3</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_4">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_4</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_4</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_5">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_5</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_5</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_6">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_6</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_6</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_7">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_7</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_7</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_8">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_8</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_8</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_9">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_9</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_9</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_10">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_10</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_10</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_11">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_11</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_11</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_12">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_12</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_12</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_13">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_13</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_13</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_14">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_14</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_14</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_15">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_15</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_15</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_16">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_16</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_16</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_17">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_17</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_17</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_18">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_18</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_18</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RID">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RID[3:0]</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_RID[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_19">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_19</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_19</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RLAST">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_RLAST</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_RLAST</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_20">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;_20</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;_20</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_WLAST">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/xdma_0_M_AXI_WLAST</obj_property>
+      <obj_property name="ObjectShortName">xdma_0_M_AXI_WLAST</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject type="logic" fp_name="u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">u_u280_xdma_wrapper/u280_xdma_i/&lt;const0&gt;</obj_property>
+      <obj_property name="ObjectShortName">&lt;const0&gt;</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

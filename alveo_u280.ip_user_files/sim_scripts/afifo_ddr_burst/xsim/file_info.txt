@@ -1,0 +1,2 @@
+afifo_ddr_burst.v,verilog,xil_defaultlib,../../../../alveo_u280.gen/sources_1/ip/afifo_ddr_burst/sim/afifo_ddr_burst.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
